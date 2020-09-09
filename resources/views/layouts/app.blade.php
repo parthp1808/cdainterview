@@ -11,11 +11,11 @@
     @if(isset($noindex) && $noindex)
     <meta name="robots" content="noindex">
     @endif
-
+    @if(isset($settings))
     @foreach($settings as $setting)
         {!! $setting->value !!}
     @endforeach
-
+    @endif
     <title>FREE Ultimate Guide to CDA Interviews: Tips & Proven Strategies to Help You Prepare & Ace Your CDA Structured Interview.</title>
 
     <!-- Scripts -->

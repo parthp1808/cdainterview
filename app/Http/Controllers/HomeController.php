@@ -26,14 +26,16 @@ class HomeController extends Controller
      */
     public function index()
     {
+        $settings = Setting::where('type','head')->get();
         $page = Page::where('name','main')->first();
-        return view('welcome',compact('page'));
+        return view('welcome',compact('page','settings'));
     }
 
     public function contact()
     {
+        $settings = Setting::where('type','head')->get();
         $page = Page::where('name','contact')->first();
-        return view('contact',compact('page'));
+        return view('contact',compact('page','settings'));
     }
 
     public function contactSubmit(Request $request)

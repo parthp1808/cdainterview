@@ -1,4 +1,4 @@
-@extends('layouts.app', ['meta_title' => $page->meta_title, 'meta_description' => $page->meta_description, 'noindex' => $page->noindex])
+@extends('layouts.app', ['meta_title' => $page->meta_title, 'meta_description' => $page->meta_description, 'noindex' => $page->noindex , 'settings' => $settings])
 
 @section('content')
     <div class="hero" style="margin-top: -126px">

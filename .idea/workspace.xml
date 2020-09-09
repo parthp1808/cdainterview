@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14389237-b97e-4fc8-93be-d718340fdef0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599621264500</updated>
-      <workItem from="1599621265946" duration="11843000" />
+      <workItem from="1599621265946" duration="12419000" />
     </task>
     <servers />
   </component>
@@ -168,9 +165,9 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="664" y="305" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1599672144001" />
-    <state x="591" y="260" width="670" height="676" key="search.everywhere.popup" timestamp="1599672978090">
+    <state x="591" y="260" width="670" height="676" key="search.everywhere.popup" timestamp="1599673706822">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="591" y="260" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1599672978090" />
+    <state x="591" y="260" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1599673706822" />
   </component>
 </project>

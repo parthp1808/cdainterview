@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="container">
+    <div class="container my-5">
         <div>
             <h3>Pages</h3>
 
@@ -17,6 +17,8 @@
                     </tr>
                 @endforeach
             </table>
+
+            <a href="/settings" class="btn btn-primary">Edit Global Settings</a>
 
         </div>
     </div>

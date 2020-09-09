@@ -18,7 +18,7 @@
                 @endforeach
             </table>
 
-            <a href="/settings" class="btn btn-primary">Edit Global Settings</a>
+            <a href="/admin/settings" class="btn btn-primary">Edit Global Settings</a>
 
         </div>
     </div>
